@@ -15,7 +15,7 @@ Este projeto tem como objetivo criar uma aplicação de gerenciamento de cliente
 
 2. Faça também o download do [MySQL Workbench](https://dev.mysql.com/downloads/workbench/), que é uma ferramenta visual de design de banco de dados.
 
-3. Certifique-se de que a pasta de arquivos ou o clone deste repositório esteja dentro da pasta `htdocs` do XAMPP, localizada no disco local.
+3. **Certifique-se de que a pasta de arquivos ou o clone deste repositório esteja dentro da pasta `htdocs` do XAMPP, localizada no disco local.**
 
 4. Instale o XAMPP e inicie os servidores MySQL e Apache.
 
